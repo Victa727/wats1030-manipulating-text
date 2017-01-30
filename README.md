@@ -111,4 +111,13 @@ word "Kuno" show up in the short story? ( Vashti = 31, Kuno = 25, Vishta = 0 )
 
 * Play Tetris in Emacs. Add a screenshot of you playing Tetris in Emacs to this repository (possibly using SCP to transfer the file, or uploading the file in another way).
 * How do you turn on line numbering in Vi? Emacs? 
+  FOR VI:
+  Press the Esc key if you are currently in insert or append mode.
+Press : (the colon). The cursor should reappear at the lower left corner of the screen next to a : prompt.
+Enter the following command: set number.
+A column of sequential line numbers will then appear at the left side of the screen.
+
+  FOR emacs:
+  M -x linum-mode
+
 * Explore the Emacs file browser mode. Describe how it works here.
